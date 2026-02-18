@@ -12,7 +12,7 @@ This project demonstrates my skills in:
 
 Original Health Tracker Application:
 
-This project is an Android-based health tracking app developed earlier in my Computer Science program. The application allows users to create accounts, log weight entries with dates, set goals, and view their weight history. The original version focused on core functionality, basic data storage using SQLite, and user interaction through a simple mobile interface. This code serves as the baseline artifact used for later enhancements in software engineering, algorithms, and database design as part of my CS 499 capstone.
+This project is an Android-based health tracking app developed earlier in my Computer Science program in CS360. The application allows users to create accounts, log weight entries with dates, set goals, and view their weight history. The original version focused on core functionality, basic data storage using SQLite, and user interaction through a simple mobile interface. This code serves as the baseline artifact used for later enhancements in software engineering, algorithms, and database design as part of my CS 499 capstone.
 https://drive.google.com/file/d/1lHWxFbGKUGrxkWJyD7lBPLWcqkAIkz4y/view?usp=drive_link
 
 Milestone One - Health Tracker Code Review:
