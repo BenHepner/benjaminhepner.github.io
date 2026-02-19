@@ -55,3 +55,8 @@ Journals For Milestone Four and Final
 
 >https://docs.google.com/document/d/1iKmn6Ld2LrkMz7vYcO7amwpHrSpey2Fw/edit?usp=drive_link&ouid=100384702742690341094&rtpof=true&sd=true
 >https://docs.google.com/document/d/17P82JytrrE6A5YfnTjPH-wUvY_YediSy/edit?usp=drive_link&ouid=100384702742690341094&rtpof=true&sd=true
+
+**Professional Self-Assessment**
+
+This portfolio highlights the skills I developed throughout my Computer Science program and capstone, including software development, algorithms, and database design. The projects included demonstrate my ability to build and improve real-world applications and reflect my goal of continuing to grow in application development and related areas of computer science.
+>https://docs.google.com/document/d/1iBNfu8uugNUFypdLRreXJctZUXJs1kDS/edit?usp=sharing&ouid=100384702742690341094&rtpof=true&sd=true
