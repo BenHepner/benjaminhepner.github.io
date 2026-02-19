@@ -46,7 +46,7 @@ Journal Milestone Three
 
 >https://docs.google.com/document/d/1XWAQ-mEcrb3WV9pBaOP7WgcQK80ZqfVT/edit?usp=drive_link&ouid=100384702742690341094&rtpof=true&sd=true
 
-###### **Milestone Four – Databases Enhancement:**
+**Milestone Four – Databases Enhancement:**
 
 This enhancement improves the Health Tracker application’s database design to better reflect real-world software practices. Updates included restructuring the SQLite schema, linking weight entries to individual users using a user ID, improving data validation, and strengthening how data is stored and retrieved. These changes demonstrate applied database design, data integrity, and multi-user support as part of my CS 499 capstone.
 >https://drive.google.com/file/d/1KoYZbX1UJjIETZrUp9AR1Q7GFivH-mEi/view?usp=drive_link
