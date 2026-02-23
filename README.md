@@ -69,4 +69,4 @@ This journal reflects on my overall growth throughout the Computer Science progr
 
 This portfolio highlights the skills I developed throughout my Computer Science program and capstone, including software development, algorithms, and database design. The projects included demonstrate my ability to build and improve real-world applications and reflect my goal of continuing to grow in application development and related areas of computer science.
 
-[Self-Assessment Jopurnal](CS 499 Professional Self Assessment.docx)
+[Self-Assessment Jopurnal](CS 499 Professional Self Assesment.docx)
