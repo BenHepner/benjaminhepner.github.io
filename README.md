@@ -40,6 +40,7 @@ This enhancement builds on the original Health Tracker application to improve ov
 [Milesotne Two Code Enhancement Code File](https://drive.google.com/file/d/1AXWhX2lZ4svIxD0KqZ8IzguSCYtXMoJO/view?usp=drive_link)
 
 [Milestone Two Artifact Review](Milestone 2.docx)
+
 [Milestone Two Journal](Milestone 2 Journal.docx)
 
 
@@ -51,6 +52,7 @@ This enhancement expands the Health Tracker application by improving how weight 
 [Milestone Three Code Enhancement Code File](https://drive.google.com/file/d/1CXxB3k_wm__Bi5f9NolRKxGWJNEigVq5/view?usp=drive_link)
 
 [Milestone Three Artifact Review](Milestone 3.docx)
+
 [Milestone Three Journal](Milestone 3 Journal.docx)
 
 
@@ -62,6 +64,7 @@ This enhancement improves the Health Tracker application’s database design to 
 [Milestone Four Code Enhancement Code File](https://drive.google.com/file/d/1KoYZbX1UJjIETZrUp9AR1Q7GFivH-mEi/view?usp=drive_link)
 
 [Milestone Four Artifact Review](Milestone 4.docx)
+
 [Milestone Four Journal](Milestone 4 Journal.docx)
 
 **Journal Five- Emerging Technology and Final Artifact Update:**
