@@ -9,6 +9,14 @@ This project demonstrates my skills in:
 - Software Engineering and Design
 - Algorithms and Data Structures
 - Databases
+  
+**Development and Version Control**
+
+This repository was developed using Git version control throughout the capstone process.
+Enhancements were implemented across multiple modules, including improvements to software design, algorithms, and database structure.
+
+Each update reflects iterative development, testing, debugging, and refinement of the Health Tracker application.
+  
 
 **Original Health Tracker Application:**
 
@@ -17,7 +25,7 @@ This project is an Android-based health tracking app developed earlier in my Com
 
 Journal Artifact
 
->https://docs.google.com/document/d/1wx187CN28p6z3ZIxgvwtu4x3KStkbC75/edit?usp=drive_link&ouid=100384702742690341094&rtpof=true&sd=true
+[View Journal](Module Three Journal.docx)
 
 **Milestone One - Health Tracker Code Review:**
 
