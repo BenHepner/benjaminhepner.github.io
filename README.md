@@ -37,7 +37,7 @@ This video provides a walkthrough and analysis of the original Health Tracker ap
 
 This enhancement builds on the original Health Tracker application to improve overall software structure, reliability, and usability. Updates included fixing the date input process, improving input validation, standardizing weight entries to pounds, and refining how data is passed and stored within the app. These changes demonstrate applied software engineering practices such as debugging, modular design, and user-focused functionality improvements as part of my CS 499 capstone.
 
-[Milesotne Two Code Enhancement Code File](https://drive.google.com/file/d/1AXWhX2lZ4svIxD0KqZ8IzguSCYtXMoJO/view?usp=drive_link)
+[Milesotne Two Code Enhancement File](https://drive.google.com/file/d/1AXWhX2lZ4svIxD0KqZ8IzguSCYtXMoJO/view?usp=drive_link)
 
 [Milestone Two Artifact Review](Milestone 2.docx)
 
@@ -49,7 +49,7 @@ This enhancement builds on the original Health Tracker application to improve ov
 
 This enhancement expands the Health Tracker application by improving how weight data is processed and displayed using structured data handling and algorithmic logic. Updates included organizing entries into structured objects, sorting data chronologically, and implementing a rolling average calculation to show weight trends over time. These changes demonstrate the use of data structures, algorithm design, and efficiency considerations as part of my CS 499 capstone.
 
-[Milestone Three Code Enhancement Code File](https://drive.google.com/file/d/1CXxB3k_wm__Bi5f9NolRKxGWJNEigVq5/view?usp=drive_link)
+[Milestone Three Code Enhancement File](https://drive.google.com/file/d/1CXxB3k_wm__Bi5f9NolRKxGWJNEigVq5/view?usp=drive_link)
 
 [Milestone Three Artifact Review](Milestone 3.docx)
 
@@ -61,7 +61,7 @@ This enhancement expands the Health Tracker application by improving how weight 
 
 This enhancement improves the Health Tracker application’s database design to better reflect real-world software practices. Updates included restructuring the SQLite schema, linking weight entries to individual users using a user ID, improving data validation, and strengthening how data is stored and retrieved. These changes demonstrate applied database design, data integrity, and multi-user support as part of my CS 499 capstone.
 
-[Milestone Four Code Enhancement Code File](https://drive.google.com/file/d/1KoYZbX1UJjIETZrUp9AR1Q7GFivH-mEi/view?usp=drive_link)
+[Milestone Four Code Enhancement File](https://drive.google.com/file/d/1KoYZbX1UJjIETZrUp9AR1Q7GFivH-mEi/view?usp=drive_link)
 
 [Milestone Four Artifact Review](Milestone 4.docx)
 
